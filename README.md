@@ -1,11 +1,40 @@
-# Who am i?
+# C71PPY
 
-Hi, i'm Clippy and i'm junior programmer and IT student. I like sharing my projects and my repositories with other people and i like to chat with others about anything
+## About Me
 
-## More about my projects
+Hi there! I'm Clippy, a passionate Programmer and CyberSec based in Localhost. I specialize in scripting langauges and website building. My goal is to not fail.
 
-My projects have been mostly inspired by other people but there are also some of projects that i worked all alone or with my friend [n3xtChanc3](./https://github.com/n3xtChanc3).
+## Portfolio
 
-## Wanna chat with me?
+### Projects
 
-Feel free to chat with me on discord . . .
+#### IPINFO
+![Project 1 Thumbnail](link_to_project_image.png)
+
+- **Description:** This tool can give you info about any IP address.
+- **Role:** Ethical Hacking.
+- **Link:** [Link to Project](https://github.com/C71PPY/IPINFO)
+
+#### Weather!
+
+![Project 2 Thumbnail](link_to_project_image.png)
+
+- **Description:** These are multiple weather types, there are: Discord bot, CLI, Website (Localhost optional), GUI.
+- **Role:** Information, News.
+- **Link:** [Link to Project](https://github.com/C71PPY/Weather)
+
+## Skills
+
+- Good at scripting langauges . . .
+- Professional at website builiding and mostly hosting . . .
+- Good enough at CyberSec and Ethical Hacking . . .
+
+## Contact
+
+Feel free to reach out to me via discord at C71PPY or just to say hello!
+
+## Testimonials
+
+> "Your work on [Project Name] was truly outstanding. You brought creativity and dedication to the team." - Client Name
+
+> "I was amazed by how quickly you turned around [Project Name]. Your attention to detail is unmatched." - Colleague Name
