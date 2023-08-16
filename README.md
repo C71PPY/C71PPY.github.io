@@ -9,15 +9,12 @@ Hi there! I'm Clippy, a passionate Programmer and CyberSec based in Localhost. I
 ### Projects
 
 #### IPINFO
-![Project 1 Thumbnail](link_to_project_image.png)
 
 - **Description:** This tool can give you info about any IP address.
 - **Role:** Ethical Hacking.
 - **Link:** [Link to Project](https://github.com/C71PPY/IPINFO)
 
 #### Weather!
-
-![Project 2 Thumbnail](link_to_project_image.png)
 
 - **Description:** These are multiple weather types, there are: Discord bot, CLI, Website (Localhost optional), GUI.
 - **Role:** Information, News.
