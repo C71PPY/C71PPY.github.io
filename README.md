@@ -32,6 +32,6 @@ Feel free to reach out to me via discord at C71PPY or just to say hello!
 
 ## Testimonials
 
-> "Your work on [Project Name] was truly outstanding. You brought creativity and dedication to the team." - Client Name
+> "Your work on Weather was truly outstanding. You brought creativity and dedication to the team."
 
-> "I was amazed by how quickly you turned around [Project Name]. Your attention to detail is unmatched." - Colleague Name
+> "I was amazed by how quickly you turned around Discord Bot. Your attention to detail is unmatched."
